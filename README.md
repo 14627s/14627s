@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm a 15-year-old developer from Morocco, passiona
 
 ## 🌱 Currently Learning
 ![CTF](https://img.shields.io/badge/-CTF-red?style=flat-square)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-0077B5?style=flat-square&logo=cisco&logoColor=white)
 
 ## 🎯 Future Goals
