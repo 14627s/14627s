@@ -20,8 +20,9 @@ My goal is to become a skilled software engineer, contributing to innovative pro
 I actively contribute to open-source projects, focusing on creating tools that solve practical problems and benefit the community.
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/14627s/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/14627s)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/14627s)
+[![Discord](https://img.shields.io/badge/-Discord-%237289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/843253888895025192)
+
 
 ---
 
