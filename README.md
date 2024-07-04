@@ -1,6 +1,6 @@
 # Hello, I'm 14627s! 👋
 
-Welcome to my GitHub profile! I'm passionate about coding open-source tools using Python and C#, and currently diving into networking and Capture The Flag (CTF).
+Welcome to my GitHub profile! I'm a 15-year-old developer from Morocco, passionate about coding open-source tools using Python and C#, and currently diving into Networking and Capture The Flag (CTF).
 
 ## 💻 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -11,8 +11,12 @@ Welcome to my GitHub profile! I'm passionate about coding open-source tools usin
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 🌱 Currently Learning
-![Networking](https://img.shields.io/badge/-Networking-0077B5?style=flat-square&logo=cisco&logoColor=white)
 ![CTF](https://img.shields.io/badge/-CTF-red?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Networking](https://img.shields.io/badge/-Networking-0077B5?style=flat-square&logo=cisco&logoColor=white)
+
+## 🎯 Future Goals
+My goal is to become a skilled software engineer, contributing to innovative projects that make a positive impact.
 
 ## 🚀 Open Source Contributions
 I actively contribute to open-source projects, focusing on creating tools that solve practical problems and benefit the community.
