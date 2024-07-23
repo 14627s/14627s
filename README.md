@@ -1,6 +1,10 @@
+Sure, here's an updated version of your profile with a focus on more professional learning goals:
+
+---
+
 # Hello, I'm 14627s! 👋
 
-Welcome to my GitHub profile! I'm a 15-year-old developer from Morocco, passionate about coding open-source tools using Python and C#, and currently diving into Networking and Capture The Flag (CTF).
+Welcome to my GitHub profile! I'm a 15-year-old developer from Morocco, passionate about coding open-source tools using Python and C#.
 
 ## 💻 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -10,8 +14,8 @@ Welcome to my GitHub profile! I'm a 15-year-old developer from Morocco, passiona
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 🌱 Currently Learning
-![CTF](https://img.shields.io/badge/-CTF-red?style=flat-square)
-![Networking](https://img.shields.io/badge/-Networking-0077B5?style=flat-square&logo=cisco&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0077B5?style=flat-square&logo=machine-learning&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ## 🎯 Future Goals
 My goal is to become a skilled software engineer, contributing to innovative projects that make a positive impact.
@@ -22,7 +26,6 @@ I actively contribute to open-source projects, focusing on creating tools that s
 ## 📫 Connect with Me
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/14627s)
 [![Discord](https://img.shields.io/badge/-Discord-%237289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/843253888895025192)
-
 
 ---
 
