@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a 15-year-old developer from Morocco, passiona
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 🌱 Currently Learning
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0077B5?style=flat-square&logo=machine-learning&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![C Language](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+
 
 ## 🎯 Future Goals
 My goal is to become a skilled software engineer, contributing to innovative projects that make a positive impact.
