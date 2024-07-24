@@ -1,6 +1,3 @@
-Sure, here's an updated version of your profile with a focus on more professional learning goals:
-
----
 
 # Hello, I'm 14627s! 👋
 
